@@ -1,0 +1,12 @@
+/* styles.css */
+
+.content-section {
+  background-color: lightgrey;
+  height: 1000px; /* Makes the section tall */
+  padding: 20px;
+}
+
+/* Optional: style navbar dropdown */
+.navbar-collapse {
+  background-color: lightgrey; /* Distinct background for mobile menu */
+}
